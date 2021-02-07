@@ -13,4 +13,4 @@ So, not only am I learning more about JAMstack, but I'm also learning ninja term
 
 # Env & Technology
 - **Environment**: 🐧 Linux (Virtual Machine)
-- **Tech**: Next.js | Airtable | Auth0 | Tailwind CSS
+- **Tech**: Next.js | Airtable | Auth0 | Tailwind CSS 
