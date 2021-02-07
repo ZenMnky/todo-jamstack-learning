@@ -1,6 +1,8 @@
 # Todo app
 ## _A JAMstack learning project_
 
+![](https://i.ibb.co/jyQd8X9/vm-setup.jpg)
+
 # Description
 I'll be following along with [this tutorial](https://www.youtube.com/watch?v=TNKzKtNTjls&list=PLZ14qQz3cfJJOcbbVi_nVEPqC2334LLMz) and deviating from it has my interests demand.
 
