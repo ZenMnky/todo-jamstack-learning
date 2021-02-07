@@ -10,6 +10,7 @@ I'm working on the project in a recently deployed Linux virtual machine to incre
 
 So, not only am I learning more about JAMstack, but I'm also learning ninja terminal skills 🤠
 
+
 # Env & Technology
 - **Environment**: 🐧 Linux (Virtual Machine)
 - **Tech**: Next.js | Airtable | Auth0 | Tailwind CSS
