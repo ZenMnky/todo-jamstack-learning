@@ -4,7 +4,7 @@
 ![](https://i.ibb.co/jyQd8X9/vm-setup.jpg)
 
 # Description
-I'll be following along with [this tutorial](https://www.youtube.com/watch?v=TNKzKtNTjls&list=PLZ14qQz3cfJJOcbbVi_nVEPqC2334LLMz) and deviating from it has my interests demand.
+I'll be following along with [this tutorial](https://www.youtube.com/watch?v=TNKzKtNTjls&list=PLZ14qQz3cfJJOcbbVi_nVEPqC2334LLMz) and deviating from it as my interests demand.
 
 I'm working on the project in a recently deployed Linux virtual machine to increase my skills in developing in such an environment.
 
